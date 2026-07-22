@@ -1,0 +1,137 @@
+# 🎯 Interactive Quiz Application
+
+An interactive GUI Quiz Application developed using **Python** and **Tkinter**.
+
+The application allows users to select different difficulty levels, answer multiple-choice questions, and receive their final score after completing the quiz.
+
+---
+
+## ✨ Features
+
+✅ Beautiful Tkinter GUI
+
+✅ Multiple Difficulty Levels
+- Easy
+- Medium
+- Hard
+
+✅ Randomized Questions
+
+✅ JSON Question Database
+
+✅ Countdown Timer
+
+✅ Blinking Timer Warning
+
+✅ Progress Bar
+
+✅ Instant Answer Validation
+
+✅ Final Score Display
+
+✅ Restart Quiz
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3
+- Tkinter
+- JSON
+- Random
+
+---
+
+## 📂 Project Structure
+
+```
+Interactive-Quiz-Application-Python/
+
+│── main.py
+│── questions_large.json
+│── README.md
+```
+
+---
+
+## ▶ How to Run
+
+Clone repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Interactive-Quiz-Application-Python.git
+```
+
+Install Python
+
+Run
+
+```bash
+python main.py
+```
+
+---
+
+## 🎮 Gameplay
+
+1. Select Difficulty
+
+2. Press Start Quiz
+
+3. Answer each MCQ
+
+4. Submit Answer
+
+5. Timer keeps running
+
+6. Final Score is displayed
+
+---
+
+## 🚀 Future Improvements
+
+- Login System
+
+- Leaderboard
+
+- Sound Effects
+
+- Database Support
+
+- Question Categories
+
+- High Score Saving
+
+- Dark/Light Theme
+
+- Image Based Questions
+
+---
+
+## 👨‍💻 Author
+
+**Uday Malik**
+
+---
+
+⭐ If you like this project, consider giving it a Star.
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/udaymalik005/Interactive-Quiz-Application-Python.git
+```
+
+Install dependencies (if any):
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the application:
+
+```bash
+python main.py
+```

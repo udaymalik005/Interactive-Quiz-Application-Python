@@ -1,0 +1,185 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": "Paris",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": "Mars",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+      "answer": "Carbon Dioxide",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "answer": "Pacific",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "answer": "Leonardo da Vinci",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "options": ["1905", "1912", "1920", "1898"],
+      "answer": "1912",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Gd", "Go"],
+      "answer": "Au",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
+      "answer": "Mitochondria",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "options": ["Isaac Newton", "Nikola Tesla", "Albert Einstein", "Galileo Galilei"],
+      "answer": "Albert Einstein",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the square root of 144?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "12",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+      "answer": "Hydrogen",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the integral of sin(x) dx?",
+      "options": ["-cos(x) + C", "cos(x) + C", "-sin(x) + C", "tan(x) + C"],
+      "answer": "-cos(x) + C",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "options": ["China", "Brazil", "UK", "Russia"],
+      "answer": "Brazil",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What year was the United Nations founded?",
+      "options": ["1945", "1939", "1950", "1940"],
+      "answer": "1945",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the derivative of e^x?",
+      "options": ["e^x", "x*e^(x-1)", "1", "x^e"],
+      "answer": "e^x",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Who wrote the play 'Hamlet'?",
+      "options": ["Charles Dickens", "Mark Twain", "William Shakespeare", "Jane Austen"],
+      "answer": "William Shakespeare",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which of the following is NOT a programming language?",
+      "options": ["Python", "Java", "HTML", "C++"],
+      "answer": "HTML",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which scientist proposed the three laws of motion?",
+      "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+      "answer": "Isaac Newton",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which organ in the human body produces insulin?",
+      "options": ["Liver", "Pancreas", "Kidney", "Spleen"],
+      "answer": "Pancreas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "options": ["NaCl", "KCl", "CaCO3", "H2O"],
+      "answer": "NaCl",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "answer": "Nile",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which is the smallest planet in our Solar System?",
+      "options": ["Mars", "Mercury", "Venus", "Earth"],
+      "answer": "Mercury",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In what year did World War II end?",
+      "options": ["1944", "1945", "1946", "1947"],
+      "answer": "1945",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the main gas found in the air we breathe?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answer": "Nitrogen",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the numeric value of Pi (π) approximately?",
+      "options": ["2.14", "3.14", "4.14", "5.14"],
+      "answer": "3.14",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which device converts mechanical energy into electrical energy?",
+      "options": ["Motor", "Generator", "Battery", "Transformer"],
+      "answer": "Generator",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which element is diamond made of?",
+      "options": ["Carbon", "Silicon", "Oxygen", "Iron"],
+      "answer": "Carbon",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi Apparatus"],
+      "answer": "Mitochondria",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Who is known as the Father of Computers?",
+      "options": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+      "answer": "Charles Babbage",
+      "difficulty": "hard"
+    }
+  ]
+}
+
